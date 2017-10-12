@@ -26,11 +26,7 @@ By basing the design on the casing for the Apple TV, I hoped to establish visual
 
 ![Enclosure with electronics exposed](exposed.jpg)
 
-#### Technical Details
-
-### Wiring Diagram
-
-![Wiring Diagram](wiring_diagram.jpg)
+## Technical Details
 
 ### List of Hardware Used
 	* One Photon RedBoard
