@@ -16,7 +16,7 @@ Yet with a single button, the piece flips the outward gaze of most internet-conn
 
 The project's outer casing is a 3D printout of an open-source model based on an Apple TV and designed by StudioPieters in the Netherlands. Their model was originally designed for a Raspberry Pi for use as an IoT device in their own studio, but I was able to double the models size at Duke's Co-Lab to fit my Photon RedBoard, Breadboard, wiring, and other components.
 
-By basing the design on the Apple TV, I hoped to establish visual cues between BlackBox and other common IoT devices. By painting it black, the casing doubles as a visual cue for the "blackbox" metaphor native to many current electronics, both in the IoT world and beyond. With voice activation, IoT devices work to blur the line between hardware and software, helping to further minimize the device's physical intrusion on the lives of users, all while masking its material impact on the environment and the politics at play behind its use of data, which is something the piece tries to imitate through it's series of notifications.
+By basing the design on the Apple TV, I hoped to establish visual cues between BlackBox and other common IoT devices. By painting it black, the casing doubles as a visual cue for the "blackbox" metaphor native to many current electronics, both in the IoT world and beyond. With voice activation, IoT devices work to blur the line between hardware and software, helping further minimize the device's physical intrusion on the lives of users, all while masking its material impact on the environment and the politics at play behind its use of data, which is something the piece tries to imitate through it's series of notifications.
 
 ### Finished Enclosure:
 
