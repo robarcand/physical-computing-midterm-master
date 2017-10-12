@@ -20,11 +20,11 @@ By basing the design on the casing for the Apple TV, I hoped to establish visual
 
 **Finished Enclosure:**
 
-![Finished Enclosure](finished_enclosure.jpg)
+![Finished Enclosure](enclosed.jpg)
 
 **Electronics Exposed:**
 
-![Enclosure with electronics exposed](exposed_enclosure.jpg)
+![Enclosure with electronics exposed](exposed.jpg)
 
 #### Technical Details
 
