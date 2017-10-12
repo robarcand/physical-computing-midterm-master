@@ -106,7 +106,7 @@ case 0:
             Particle.publish("rob-sarah-physcomp-midterm-42","button pressed for the first time");
             break;
 ```
-At the same time, the program also runs the "myHandler()" function with Particle.publish to publish messages based on Sarah's project. When the RGB color of the LED lights on her project change, the color of the changing light is publish to both partner's Particle consoles. It relies on a simple "if X, else if Y, else if Z" statement to react to changing colors.
+At the same time, the program also runs the "myHandler()" function with Particle.publish to publish messages based on Sarah's project. When the RGB color of the LED lights on her project change, the color of the changing light is publish to both partners' Particle consoles. It relies on a simple "if X, else if Y, else if Z" statement to react to changing colors.
 ```
 void myHandler(const char *event, const char *data) {
   lightMode = data;
