@@ -61,7 +61,7 @@ Serial.begin(9600);
 }
 ```
 
-Next, the program uses "void loop()" to run Blynk, as well as the switch with a 10 millisecond delay. The switch uses a "softwareDebounce()" boolean to help break the sensitivity of the hypersensitivity of the HIGH / LOW button toggle. with and "if X, then Y" statement, the boolean limits the softwareDebounce to only happen at lastPressTime + debounceTime.
+Next, the program uses "void loop()" to run Blynk, as well as the switch with a 10 millisecond delay. The switch uses a "softwareDebounce()" boolean to help break the hypersensitivity of the HIGH / LOW button toggle. with and "if X, then Y" statement, the boolean limits the softwareDebounce to only happen at lastPressTime + debounceTime.
 
 ```
 bool softwareDebounce()
