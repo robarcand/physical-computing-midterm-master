@@ -46,7 +46,7 @@ The project is composed of a simple loop system using a switch counter and a ser
 char auth[] = "aad113f6ec594a71a975c3a1fd4628ad";
 ```
 
-In the "void setup()" function, the program declares the data rate in bits per second in it's communication with the computer. Then, it authorizes Blynk and initiates it's connection to pin D2, as well as connects to Sarah's program through "Particle.subscribe".
+In the "void setup()" function, the program declares the data rate in bits per second in its communication with the computer. Then, it authorizes Blynk and initiates its connection to pin D2, as well as connects to Sarah's program through "Particle.subscribe".
 
 ```
  void setup() {
